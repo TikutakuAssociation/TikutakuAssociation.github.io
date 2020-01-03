@@ -1,0 +1,27 @@
+# site
+title: Tikutaku Association
+url: "https://tikutaku.org/"
+description: Tikutaku Association Official Website.
+encoding: utf-8
+
+# contact
+email: support@tikutaku.org
+twitter_username: TikutakuAssoc
+github_username: TikutakuAssociation
+
+# style
+theme: minima
+markdown: kramdown
+
+# exclude files
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
