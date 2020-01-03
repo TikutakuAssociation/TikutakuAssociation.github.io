@@ -1,0 +1,14 @@
+.env
+
+*.gem
+*.rbc
+
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+Gemfile.lock
+.ruby-version
+.ruby-gemset
+
+/_site/
